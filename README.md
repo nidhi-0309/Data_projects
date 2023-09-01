@@ -1,2 +1,2 @@
 # Data_projects
-Data Analytics | Visualization
+Data Analytics
